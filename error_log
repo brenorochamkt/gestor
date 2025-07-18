@@ -1,0 +1,93 @@
+[19-Jun-2025 23:45:01 UTC] PHP Warning:  require_once(/home/duy7b2q5z0h3/public_html/gestor/menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/duy7b2q5z0h3/public_html/gestor/menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:06 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:08 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:09 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:10 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:11 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:13 UTC] PHP Warning:  require_once(menu.php): Failed to open stream: No such file or directory in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[19-Jun-2025 23:45:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'menu.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php:400
+Stack trace:
+#0 {main}
+  thrown in /home/duy7b2q5z0h3/public_html/gestor/dashboard.php on line 400
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $titulo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 6
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 235
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 241
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $mensagem_sucesso in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 253
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $mensagem_erro in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 260
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $mensagem_info in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 267
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 275
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 301
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $demanda_id in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 303
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 305
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 315
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 315
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $clientes_options in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 323
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 323
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $usuarios_options in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 334
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 334
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 344
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 344
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 357
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 357
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $prioridades_demanda in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 362
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 362
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $status_demanda_map in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 370
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 370
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 374
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 390
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 390
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 394
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 394
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 398
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 398
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 402
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 402
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $form_data in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 409
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 409
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 417
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 421
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 438
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $demanda_id in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 448
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $demanda_id in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 550
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $demanda_id in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 602
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $modo_pagina in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 651
+[20-Jun-2025 01:23:53 UTC] PHP Warning:  Undefined variable $demanda_id in /home/duy7b2q5z0h3/public_html/gestor/criardemanda.php on line 652
+[24-Jun-2025 22:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[24-Jun-2025 22:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[24-Jun-2025 22:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[24-Jun-2025 22:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "estado" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[24-Jun-2025 22:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "cep" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[27-Jun-2025 00:54:31 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[27-Jun-2025 00:54:31 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[27-Jun-2025 00:54:31 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[27-Jun-2025 00:54:31 America/Sao_Paulo] PHP Warning:  Undefined array key "estado" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[27-Jun-2025 00:54:31 America/Sao_Paulo] PHP Warning:  Undefined array key "cep" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[18-Jul-2025 10:53:22 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[18-Jul-2025 10:53:22 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[18-Jul-2025 10:53:22 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[18-Jul-2025 10:53:22 America/Sao_Paulo] PHP Warning:  Undefined array key "estado" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
+[18-Jul-2025 10:53:22 America/Sao_Paulo] PHP Warning:  Undefined array key "cep" in /home/duy7b2q5z0h3/public_html/gestor/clientes_gerenciamento.php on line 162
